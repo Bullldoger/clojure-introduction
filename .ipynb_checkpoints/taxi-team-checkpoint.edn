@@ -1,9 +1,0 @@
-[{:destination :Vorobyevy-Gory,
-  :arrival-time "15.45",
-  :available-passengers 3}
- {:destination :Spartak,
-  :arrival-time "15.50",
-  :available-passengers 2}
- {:destination :Dinamo,
-  :arrival-time "16.00",
-  :available-passengers 1}]
