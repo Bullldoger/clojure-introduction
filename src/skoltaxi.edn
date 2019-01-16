@@ -1,28 +1,36 @@
-[
-    {:passengers 1, 
+ [
+    {:id 1,
+     :passengers 1, 
      :from :Vorobyevy-Gory, 
      :to :Spartak, 
      :time "15.30", 
      :cost 100,
-     :messages []}
-    {:passengers 1, 
-     :from :Vorobyevy-Gory, 
-     :to :Spartak, 
-     :time "15.30", 
-     :cost 100,
-     :messages []}
-    {:passengers 1, 
-     :from :Vorobyevy-Gory, 
-     :to :Spartak, 
-     :time "15.30", 
-     :cost 100,
-     :messages []}
-    {:passengers 1, 
-     :from :Vorobyevy-Gory, 
-     :to :Spartak, 
-     :time "15.30", 
-     :cost 100,
-     :messages []}
+     :messages [],
+     :capacity 2}
+    {:id 2
+     :passengers 1
+     :from :Vorobyevy-Gory
+     :to :Spartak
+     :time "15.30"
+     :cost 100
+     :messages []
+     :capacity 2}
+    {:id 3
+     :passengers 1
+     :from :Vorobyevy-Gory
+     :to :Spartak
+     :time "15.30"
+     :cost 100
+     :messages []
+     :capacity 2}
+    {:id 4
+     :passengers 1
+     :from :Vorobyevy-Gory
+     :to :Spartak
+     :time "15.30"
+     :cost 100
+     :messages []
+     :capacity 2}
     ]
 
 
